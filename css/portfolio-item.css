@@ -15,3 +15,8 @@ body {
 footer {
     margin: 50px 0;
 }
+
+.footerImage{
+    height: 32px;
+    width: 32px;
+}
